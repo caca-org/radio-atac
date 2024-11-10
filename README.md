@@ -1,4 +1,4 @@
-# Radio ATAC Discord bot
+# 🎵 Radio ATAC Discord bot 🎵
 
 ## What is this?
 
