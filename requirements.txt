@@ -1,3 +1,4 @@
+python-dotenv
 aiohttp
 discord.py
 loguru

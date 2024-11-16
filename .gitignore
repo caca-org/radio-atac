@@ -1,6 +1,5 @@
-
 # Avoid uploading sensitive information to the repository
-config.json
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
